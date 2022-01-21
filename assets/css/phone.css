@@ -1,0 +1,98 @@
+/* Navigation */
+
+#navbar {
+    flex-direction: column;
+    overflow: hidden;
+}
+
+#logo {
+    margin: 1rem 1.8rem 0.1rem 1.8rem;
+}
+
+#navbar ul li {
+    padding-bottom: 3px;
+}
+
+#navbar ul li a {
+    font-size: 0.6rem;
+    padding: 0.2rem 0.6rem;
+}
+
+
+/* Home Section */
+
+#home {
+    height: 21.5rem;
+    overflow: hidden;
+}
+
+
+/* Services Section */
+
+#services {
+    flex-direction: column;
+}
+
+
+/* Client Section */
+
+#client {
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+.client-item img {
+    height: 4em;
+}
+
+
+/* Contact Section */
+
+#contact form {
+    width: 80%;
+}
+
+#contact label {
+    font-size: 1rem;
+    font-family: 'Bree Serif', serif;
+}
+
+#contact input,
+textarea {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    border-radius: 8px;
+}
+
+
+/* Footer */
+
+footer {
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+/* Utility Classes */
+
+.h-primary {
+    font-size: 1.7rem;
+    font-family: 'Bree Serif', serif;
+}
+
+.h-secondary {
+    padding: 0.5rem;
+    font-family: 'Bree Serif', serif;
+}
+
+.p-primary {
+    font-size: 0.75rem;
+}
+
+.btn {
+    padding: 4px 10px;
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 12px;
+}
