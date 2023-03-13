@@ -1,6 +1,6 @@
 # Online Food Delivery Website Template
 
-This is a One Page Online Food Delivery Website Template. You can feel free to use this template, if you want.<br>
+This is a one page static Online Food Delivery Website Template. You can feel free to use this template, if you want.<br>
 
 
 > We use pure,
